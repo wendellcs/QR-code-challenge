@@ -16,8 +16,8 @@ This was a very simple challenge, but it was a lot of fun to solve. I was able t
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/wendellcs/QR-code-challenge#overview)
-- Live Site URL: [Live Site URL](https://wendellcs.github.io/QR-code-challenge/)
+- [Solution URL](https://github.com/wendellcs/QR-code-challenge#overview)
+- [Live Site](https://wendellcs.github.io/QR-code-challenge/)
 
 ## My process
 
