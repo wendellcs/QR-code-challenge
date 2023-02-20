@@ -16,8 +16,8 @@ This was a very simple challenge, but it was a lot of fun to solve. I was able t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/wendellcs/QR-code-challenge#overview)
+- Live Site URL: [Live Site URL](https://wendellcs.github.io/QR-code-challenge/)
 
 ## My process
 
@@ -28,6 +28,6 @@ This was a very simple challenge, but it was a lot of fun to solve. I was able t
 
 ## Author
 
-- Website - [WendellCS](https://www.your-site.com)
-- Frontend Mentor - [@WendellCS](https://www.frontendmentor.io/profile/yourusername)
+- Website - [WendellCS](https://wendellcs.github.io)
+- Frontend Mentor - [@WendellCS](https://www.frontendmentor.io/profile/WendellCS)
 
