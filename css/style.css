@@ -3,7 +3,8 @@
 body {background-color: #d5e1ef;}
 
 .container {
-    margin: 100px auto;
+    margin: auto;
+    margin-bottom: 50px;
     width: 300px;
     padding: 15px;
     border-radius: 20px;
