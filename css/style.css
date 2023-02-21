@@ -42,11 +42,11 @@ body {
     color: hsl(220, 15%, 55%);
 }
 
-.attribution { font-size: 11px; text-align: center;}
+.attribution { margin-top: 50px; font-size: 11px; text-align: center;}
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media (max-width: 360px) {
-    .container {margin-top: 50px;}
+@media (max-width: 420px) {
+    .container {margin: auto; width: 80%;}
     .content-container {margin-top: 10px;}
     .content-container h1 { font-size: 18px; margin: 10px 0;}
     .content-container p {margin: 10px;}
